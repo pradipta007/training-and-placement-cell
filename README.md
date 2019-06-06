@@ -4,4 +4,12 @@ After successfully generating the list of students who are eligible to attend th
 Further, Session  functionality has been provided so that unauthorised access can be restricted.
 Also, a login page for admin has been provided.
 
-For Further information Please refer to Software Requirement Specification Provided.
+Technologies used
+FRONT-END DEVELOPMENT:
+	HTML
+	CSS
+	JAVASCRIPT
+BACK-END DEVELOPMENT:
+	PHP
+	MYSQL
+
