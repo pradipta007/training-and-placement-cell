@@ -6,10 +6,12 @@ Also, a login page for admin has been provided.
 
 Technologies used
 FRONT-END DEVELOPMENT:
+
 	HTML
 	CSS
 	JAVASCRIPT
 BACK-END DEVELOPMENT:
+
 	PHP
 	MYSQL
 
